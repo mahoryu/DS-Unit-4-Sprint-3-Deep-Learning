@@ -11,3 +11,8 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+
+Questions:
+* If we acheive AGI what would be the ethics of how it would be treated, strictly as a computer or as an actual thinking being?
+* What are some safey conserns with the rise of AGI?
